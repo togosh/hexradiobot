@@ -1,7 +1,7 @@
-# autobot
+# hexradiobot
 Automatic livestreaming based on audio levels over time
 
-Example: https://hexradio.app/
+Example: https://hexradio.app/   
 
 - Waits for 5 minutes of talking and then tells OBS to start streaming   
 - Waits for 5 minutes of dead air and then tells OBS to stop streaming   
@@ -18,3 +18,6 @@ https://obsproject.com/forum/resources/obs-websocket-remote-control-obs-studio-f
 3. Clone github
 
 4. Open Visual Studio .sln file and compile code
+
+How to setup your own HEXradioapp:   
+https://github.com/togosh/hexradioapp   
